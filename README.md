@@ -20,6 +20,7 @@ Este é um sistema simples de cadastro e gerenciamento de clientes, filmes e fun
 ---
 
 ## 🚀 Como Executar o Projeto
+https://github.com/Leozinnnnnn/CRUD-JAVA.git
 
 Abra o projeto no NetBeans.
 
